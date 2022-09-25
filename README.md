@@ -1,4 +1,4 @@
-# WPClothes2Order testing environment
+# Local WordPress with Docker
 
 Simple local setup to run WordPress using docker.
 
