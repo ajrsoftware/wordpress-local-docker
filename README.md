@@ -9,7 +9,7 @@ Simple local setup to run WordPress using docker.
 - Navigate into the root of the cloned repo
 - Ensure you have docker running
 - run `$ sh quickstart.sh`
-- Dock will spin up the needed containers & configure WordPress
+- Docker will spin up the needed containers & configure WordPress
 - Use the below as reference
 
 ---
